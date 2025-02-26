@@ -1,4 +1,4 @@
-  # Queen-Anita_V4
+  # Queen_Anita-V4
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center"> 
 <u>⚡ A simple WhatsApp User Bot Coded By David Cyril ⚡</u>
@@ -12,10 +12,10 @@
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-DAVID_CYRIL-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/DeeCeeXxx2/Queen-Anita_V4/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DeeCeeXxx2/Queen-Anita_V4?color=blue&style=flat-square"></a>
-<a href="https://github.com/DeeCeeXxx2/Queen-Anita_V4/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DeeCeeXxx2/Queen-Anita_V4?color=yellow&style=flat-square"></a>
-<a href="https://github.com/DeeCeeXxx2/Queen-Anita_V4/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DeeCeeXxx2/Queen-Anita_V4?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/DeeCeeXxx2/Queen-Anita_V4/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Yes-red.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/DeeCeeXxx2/Queen_Anita-V4/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DeeCeeXxx2/Queen_Anita-V4?color=blue&style=flat-square"></a>
+<a href="https://github.com/DeeCeeXxx2/Queen_Anita-V4/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DeeCeeXxx2/Queen_Anita-V4?color=yellow&style=flat-square"></a>
+<a href="https://github.com/DeeCeeXxx2/Queen_Anita-V4/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DeeCeeXxx2/Queen_Anita-V4?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/DeeCeeXxx2/Queen_Anita-V4/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Yes-red.svg"></a>&nbsp;&nbsp;
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 #
@@ -24,12 +24,12 @@
 
 
 
-## Queen-Anita_V4 Deployment Methods
+## Queen_Anita-V4 Deployment Methods
 ---
-1.  **Fork Repo First, [`CLICK HERE`](https://github.com/DeeCeeXxx2/Queen-Anita_V4/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
+1.  **Fork Repo First, [`CLICK HERE`](https://github.com/DeeCeeXxx2/Queen_Anita-V4/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
 2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://anita-v4-pairing-wumi.onrender.com) 
  OR BY [`SCANNING QR CODE`](https://gojousession-05ea27b8ff9a.herokuapp.com/wasiqr)** 
-3. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/DeeCeeXxx2/Queen-Anita_V4)**
+3. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/DeeCeeXxx2/Queen_Anita-V4)**
 3. **Deploy on [`RENDER`](https://dashboard.render.com/signup)**
 3. **Deploy on [`KOYEB`](https://app.koyeb.com/services/deploy/?type=git&repository=github.com%2FDeeCeeXxx2&branch=main&name=Queen_Anita-V4&builder=dockerfile&env%5BAUTO_STATUS_REACT=false%5D=&env%5BSESSION_ID%5D=your%20sessionid%20here&env%5BPUBLIC%5D=true&env=%5BAUTO_TYPING%5D%3Dfalse&env%5BAUTO_STATUS_VIEW%5D=true)**
 3. **Deploy on [`TALKDROVE`](https://host.talkdrove.com)**
@@ -51,9 +51,9 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## 
 
-- *Queen-Anita_V4 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *Queen_Anita-V4 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Queen-Anita_V4 at your own risk by keeping this warning in mind.*
+- *Use Queen_Anita-V4 at your own risk by keeping this warning in mind.*
   
   #### ```TOTAL PROFILE VIEWS 🧚```
 ![Visitor Count](https://profile-counter.glitch.me/DeeCeeXxx2/count.svg)
